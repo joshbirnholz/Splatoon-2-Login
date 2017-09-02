@@ -1,15 +1,5 @@
 //
 //  Input.swift
-//  Splatoon 2
-//
-//  Created by Josh Birnholz on 8/26/17.
-//  Copyright © 2017 Joshua Birnholz. All rights reserved.
-//
-
-import Foundation
-
-//
-//  Input.swift
 //	Input
 //
 //  Created by Josh Birnholz on 6/1/16.
